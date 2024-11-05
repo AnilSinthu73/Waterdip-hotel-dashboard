@@ -1,0 +1,41 @@
+/* App.css */
+
+/* Container styling */
+.container {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+/* Header styling */
+h1 {
+  font-size: 2rem;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+/* Date picker styling */
+.date-picker-container {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+/* Loading and error message styling */
+.message {
+  font-size: 1.2rem;
+  color: #666;
+}
+
+.error {
+  color: red;
+  font-weight: bold;
+}
+
+/* Chart container */
+.chart-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
