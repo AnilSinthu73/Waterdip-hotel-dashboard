@@ -16,7 +16,7 @@
     "web",
     "api"
   ],
-  "author": "Your Name",
+  "author": "anilsinthu",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
